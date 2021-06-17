@@ -1,0 +1,27 @@
+@import "/icons.css";
+@import"./fonts.css";
+@import"./body.css";
+@import"./link.css";
+
+
+
+:root{
+    --primaryColor: #00B050;
+--white: #FFFFFF;
+--gray10: #B3B3B3;
+--gray20:#737373;
+--gray30: #282828;
+--gray40: #181818;
+--gray50: #121212;
+--gray60: #000000;
+--basefontFamily:Avenir Helvetica, sans-serif;
+--headline1:bold 2rem/normal var(--basefontFamily);
+--headline2:bold 2rem/1.75rem var(--basefontFamily);
+--basefont: normal .875rem/1.75rem var(--basefontFamily);
+--basefont: bold .875rem/1.75rem var(--basefontFamily);
+--button: bold .875rem/1rem var(--basefontFamily);
+--smallfont: normal .75rem/normal var(--basefontFamily)
+}
+
+
+

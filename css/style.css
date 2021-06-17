@@ -31,13 +31,13 @@
 .icon-Play:before {
   content: "\e901";
 }
-.icon-volume-up:before {
+.icon-volumeUp:before {
   content: "\e902";
 }
-.icon-volume-off:before {
+.icon-volumeOff:before {
   content: "\e903";
 }
-.icon-volume-down:before {
+.icon-volumeDown:before {
   content: "\e904";
 }
 .icon-next:before {
@@ -46,13 +46,13 @@
 .icon-prev:before {
   content: "\e906";
 }
-.icon-arrow-right:before {
+.icon-arrowRight:before {
   content: "\e907";
 }
-.icon-arrow-left:before {
+.icon-arrowLeft:before {
   content: "\e908";
 }
-.icon-credit-card:before {
+.icon-creditCard:before {
   content: "\e909";
 }
 .icon-music:before {
@@ -64,7 +64,7 @@
 .icon-round:before {
   content: "\e90c";
 }
-.icon-add-plus:before {
+.icon-addPlus:before {
   content: "\e90d";
 }
 .icon-libraryActive:before {
